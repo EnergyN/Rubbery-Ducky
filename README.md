@@ -2,7 +2,7 @@
 
 CODE:
 
-REM     Title: ADVCANED KILLER
+REM     Title: ADVANCED KILLER
 
 REM     Author: EnergyN
 
